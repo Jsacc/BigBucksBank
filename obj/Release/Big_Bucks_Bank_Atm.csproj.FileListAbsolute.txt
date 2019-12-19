@@ -1,0 +1,8 @@
+C:\Users\CITTutor\OneDrive\OOPL\C#\Big_Bucks_Bank_Atm\Big_Bucks_Bank_Atm\bin\Release\Big_Bucks_Bank_Atm.exe.config
+C:\Users\CITTutor\OneDrive\OOPL\C#\Big_Bucks_Bank_Atm\Big_Bucks_Bank_Atm\obj\Release\Big_Bucks_Bank_Atm.BankOptions.resources
+C:\Users\CITTutor\OneDrive\OOPL\C#\Big_Bucks_Bank_Atm\Big_Bucks_Bank_Atm\obj\Release\Big_Bucks_Bank_Atm.deposit.resources
+C:\Users\CITTutor\OneDrive\OOPL\C#\Big_Bucks_Bank_Atm\Big_Bucks_Bank_Atm\obj\Release\Big_Bucks_Bank_Atm.LogIn.resources
+C:\Users\CITTutor\OneDrive\OOPL\C#\Big_Bucks_Bank_Atm\Big_Bucks_Bank_Atm\obj\Release\Big_Bucks_Bank_Atm.Properties.Resources.resources
+C:\Users\CITTutor\OneDrive\OOPL\C#\Big_Bucks_Bank_Atm\Big_Bucks_Bank_Atm\obj\Release\Big_Bucks_Bank_Atm.withDrawal.resources
+C:\Users\CITTutor\OneDrive\OOPL\C#\Big_Bucks_Bank_Atm\Big_Bucks_Bank_Atm\obj\Release\Big_Bucks_Bank_Atm.withDrawalForm.resources
+C:\Users\CITTutor\OneDrive\OOPL\C#\Big_Bucks_Bank_Atm\Big_Bucks_Bank_Atm\obj\Release\Big_Bucks_Bank_Atm.csproj.GenerateResource.Cache
